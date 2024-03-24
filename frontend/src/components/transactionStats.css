@@ -1,0 +1,33 @@
+.sales-summary-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 300px;
+  margin: 20px auto;
+  background-color: #f9f9f9;
+}
+
+.select-container {
+  margin-bottom: 10px;
+}
+
+.select-container label {
+  font-weight: bold;
+}
+
+.summary-details {
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+.summary-details h3 {
+  margin-top: 0;
+}
+
+.summary-details p {
+  margin-bottom: 5px;
+}
+
+.summary-details p span {
+  font-weight: bold;
+}
